@@ -4,7 +4,7 @@ A fully-featured weather dashboard built with **React**, **Tailwind CSS**, and *
 
 ---
 
-🚀 **Live Demo**: [weather-dashboard]([https://weather-dashboard.vercel.app](https://weather-dashboard-sable-three.vercel.app/))
+🚀 **Live Demo**: [weather-dashboard-sable-three.vercel.app/](https://weather-dashboard-sable-three.vercel.app/)
 
 ---
 
