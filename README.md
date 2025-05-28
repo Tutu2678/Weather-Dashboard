@@ -39,7 +39,7 @@ A fully-featured weather dashboard built with **React**, **Tailwind CSS**, and *
 
 ```bash
 git clone https://github.com/Tutu2678/weather-dashboard.git](https://github.com/Tutu2678/Weather-Dashboard.git
-cd weather-dashboard
+cd Weather-Dashboard
 ```
 
 ### 2. Install Dependencies
