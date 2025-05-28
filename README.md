@@ -40,24 +40,24 @@ A fully-featured weather dashboard built with **React**, **Tailwind CSS**, and *
 ```bash
 git clone https://github.com/Tutu2678/weather-dashboard.git](https://github.com/Tutu2678/Weather-Dashboard.git
 cd weather-dashboard
-'''
+```
 
 ### 2. Install Dependencies
-'''bash
+```bash
 npm install
-'''
+```
 
 ###3. Add Environment Variables
 Create a .env file in the root of your project with:
 
-'''bash
+```bash
 VITE_WEATHER_API_KEY=your_openweathermap_api_key
 VITE_SUPABASE_URL=your_supabase_project_url
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
-'''
+```
 
 ### 4. Start the Development Server
 
-'''bash
+```bash
 npm run dev
-'''
+```
